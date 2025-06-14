@@ -21,7 +21,7 @@
 
 ## ⚠️ Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment. And I tried this website to build with the help of https://www.youtube.com/watch?v=zA9r5zTllx4.
 
 
 **Cloning the Repository**
